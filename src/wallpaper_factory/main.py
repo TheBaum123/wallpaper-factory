@@ -46,7 +46,22 @@ def main():
         new_path.append(image_name)
         new_path = "/".join(new_path)
         cv2.imwrite(new_path, new_image)
+        # remove black background that somehow happens while denoising
+        if not (0, 0, 0, 255) in available_colors:
+            remove_bg_after_denoise(new_path)
         print("saved denoised version at " + new_path)
+
+    # remove bg from image after bg is added in denoising
+    def remove_bg_after_denoise(image_path: str):
+        image = Image.open(image_path)
+        image = image.convert("RGBA")
+        pix = image.load()
+        for x in range(image.size[0]):
+            for y in range(image.size[1]):
+                if type(pix[x, y]) is tuple and not pix[x, y] == (0, 0, 0, 0):
+                    if pix[x, y] == (0, 0, 0, 255):
+                        pix[x, y] = (0, 0, 0, 0)
+        image.save(image_path)
 
     # get the image path to the image the user wants to convert
     # to the prefered color scheme

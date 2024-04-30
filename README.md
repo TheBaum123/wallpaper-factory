@@ -7,6 +7,7 @@
 -   [Currently Available color schemes](#Currently-Available-color-schemes)
     -   [Gruvbox](#Gruvbox)
     -   [rose pine moon](#rose-pine-moon)
+    -   [everforest medium dark](#everforest-medium-dark)
 -   [Attributions](#Attributions)
     -   [Example Images](#Example-Images)
 

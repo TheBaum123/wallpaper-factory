@@ -57,11 +57,11 @@ if you chose to generate a denoised version of the image as well.
 
 ### Gruvbox
 
-| made by       | [morhetz](https://github.com/morhetz)                                                                                                                                        |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| repository    | [gruvbox](https://github.com/morhetz/gruvbox)                                                                                                                                |
-| palette       | ![palette](https://camo.githubusercontent.com/72015eab40bd7a696e2802810d7519480d51a2fba75f0f873dc23b990eb860f8/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67) |
-| example image | ![./assets/gruvbox/gruvbox_dark_medium_wallhaven-m9e9m1.png](./assets/gruvbox/gruvbox_dark_medium_wallhaven-m9e9m1.png)                                                      |
+| made by       | [morhetz](https://github.com/morhetz)                                                                                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| repository    | [gruvbox](https://github.com/morhetz/gruvbox)                                                                                                                                             |
+| palette       | ![palette](https://camo.githubusercontent.com/72015eab40bd7a696e2802810d7519480d51a2fba75f0f873dc23b990eb860f8/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67)              |
+| example image | ![./assets/gruvbox/gruvbox_dark_medium_wallhaven-m9e9m1.png](https://raw.githubusercontent.com/TheBaum123/wallpaper-factory/main/assets/gruvbox/gruvbox_dark_medium_wallhaven-m9e9m1.png) |
 
 ### rose pine moon
 

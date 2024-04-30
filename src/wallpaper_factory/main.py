@@ -36,7 +36,7 @@ def main():
             image, h=10, hColor=10, searchWindowSize=21
         )
 
-        new_path = image_path.split("/")
+        new_path = image_path.split(os.sep)
         image_name = new_path.pop()
         image_name = image_name.split(".")
         image_name.pop()
@@ -44,7 +44,7 @@ def main():
         image_name = "".join(image_name)
         image_name = image_name + ".png"
         new_path.append(image_name)
-        new_path = "/".join(new_path)
+        new_path = f"{os.sep}".join(new_path)
         cv2.imwrite(new_path, new_image)
         # remove black background that somehow happens while denoising
         if not (0, 0, 0, 255) in available_colors:
@@ -94,15 +94,15 @@ def main():
 
                     pix[x, y] = new_color
 
-        new_path = path.split("/")
+        new_path = path.split(os.sep)
         image_name = new_path[-1]
         image_name = image_name.split(".")
         image_name.pop()
         image_name = ".".join(image_name) + ".png"
         new_path.pop()
         new_path = (
-            "/".join(new_path)
-            + "/"
+            f"{os.sep}".join(new_path)
+            + os.sep
             + available_palletes[chosen_pallete][0]
             + "_"
             + image_name

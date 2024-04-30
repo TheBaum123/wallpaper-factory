@@ -71,6 +71,14 @@ if you chose to generate a denoised version of the image as well.
 | palette       | ![palette](https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette-moon.png) |
 | example image | waiting for consent to distribute                                                                    |
 
+### everforest medium dark
+
+| made by       | [sainnhe](https://github.com/sainnhe)                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| repository    | [everforest](https://github.com/sainnhe/everforest)                                                               |
+| palette       | ![palette](https://user-images.githubusercontent.com/58662350/214382352-cd7a4f63-e6ef-4575-82c0-a8b72aa37c0c.png) |
+| example image | TODO                                                                                                              |
+
 ## Attributions
 
 ### Example Images

@@ -1,5 +1,15 @@
 # Wallpaper Factory
 
+## Table of Content
+
+-   [Installation](#Installation)
+-   [Usage](#Usage)
+-   [Currently Available color schemes](#Currently Available color schemes)
+    -   [[#Currently Available color schemes#Gruvbox|Gruvbox]]
+    -   [[#Currently Available color schemes#rose pine moon|rose pine moon]]
+-   [[#Attributions|Attributions]]
+    -   [[#Attributions#Example Images|Example Images]]
+
 ## Installation
 
 You can install this package / cli utility by running `pip install wallpaper-factory`.
@@ -42,3 +52,29 @@ saved recolored version at <path/<theme>_<name>_denoised.png>
 ```
 
 if you chose to generate a denoised version of the image as well.
+
+## Currently Available color schemes
+
+### Gruvbox
+
+| made by       | [morhetz](https://github.com/morhetz)                                                                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| repository    | [gruvbox](https://github.com/morhetz/gruvbox)                                                                                                                                |
+| palette       | ![palette](https://camo.githubusercontent.com/72015eab40bd7a696e2802810d7519480d51a2fba75f0f873dc23b990eb860f8/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67) |
+| example image | ![./assets/gruvbox/gruvbox_dark_medium_wallhaven-m9e9m1.png](./assets/gruvbox/gruvbox_dark_medium_wallhaven-m9e9m1.png)                                                      |
+
+### rose pine moon
+
+| made by       | [?Rosé Pine?](https://rosepinetheme.com/)                                                            |
+| ------------- | ---------------------------------------------------------------------------------------------------- |
+| repository    | [rose-pine-theme](https://github.com/rose-pine/rose-pine-theme)                                      |
+| palette       | ![palette](https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette-moon.png) |
+| example image | waiting for consent to distribute                                                                    |
+
+## Attributions
+
+### Example Images
+
+| Original                                                                                      | Made By                                      | Link                          |
+| --------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------- |
+| ![Kaga(Azure Lane) 1920x1080 by voyager](https://w.wallhaven.cc/full/m9/wallhaven-m9e9m1.png) | [voyager](https://wallhaven.cc/user/voyager) | https://wallhaven.cc/w/m9e9m1 |

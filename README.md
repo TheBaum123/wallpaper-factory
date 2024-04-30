@@ -4,11 +4,11 @@
 
 -   [Installation](#Installation)
 -   [Usage](#Usage)
--   [Currently Available color schemes](#Currently Available color schemes)
-    -   [[#Currently Available color schemes#Gruvbox|Gruvbox]]
-    -   [[#Currently Available color schemes#rose pine moon|rose pine moon]]
--   [[#Attributions|Attributions]]
-    -   [[#Attributions#Example Images|Example Images]]
+-   [Currently Available color schemes](#Currently-Available-color-schemes)
+    -   [Gruvbox](#Gruvbox)
+    -   [rose pine moon](#rose-pine-moon)
+-   [Attributions](#Attributions)
+    -   [Example Images](#Example-Images)
 
 ## Installation
 

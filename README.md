@@ -88,3 +88,5 @@ if you chose to generate a denoised version of the image as well.
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------- |
 | ![Kaga(Azure Lane) 1920x1080 by voyager](https://w.wallhaven.cc/full/m9/wallhaven-m9e9m1.png)           | [voyager](https://wallhaven.cc/user/voyager) | https://wallhaven.cc/w/m9e9m1 |
 | ![Sparkle(Honkai: Star Rail) 1920x1080 by voyager](https://w.wallhaven.cc/full/1p/wallhaven-1pwxv1.png) | [voyager](https://wallhaven.cc/user/voyager) | https://wallhaven.cc/w/1pwxv1 |
+
+All images remain property of their original owners. Owners may request removal of images at any time.

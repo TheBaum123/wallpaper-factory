@@ -70,7 +70,7 @@ if you chose to generate a denoised version of the image as well.
 | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | repository    | [rose-pine-theme](https://github.com/rose-pine/rose-pine-theme)                                                            |
 | palette       | ![palette](https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette-moon.png)                       |
-| example image | https://raw.githubusercontent.com/TheBaum123/wallpaper-factory/main/assets/rose_pine_moon/rose_pine_moon_arch_denoised.png |
+| example image | ![./assets/rose_pine_moon/rose_pine_moon_arch_denoised.png](https://raw.githubusercontent.com/TheBaum123/wallpaper-factory/main/assets/rose_pine_moon/rose_pine_moon_arch_denoised.png) |
 
 ### everforest medium dark
 

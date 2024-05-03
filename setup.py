@@ -5,7 +5,7 @@ long_description = f.read()
 
 setup(
     name="wallpaper_factory",
-    version="0.0.11",
+    version="0.0.12",
     install_requires=["opencv-python", "pillow"],
     entry_points={
         "console_scripts": ["wallpaper-factory = wallpaper_factory:wallpaper_factory"]

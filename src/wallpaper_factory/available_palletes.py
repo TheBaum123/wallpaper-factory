@@ -81,7 +81,7 @@ available_palletes = [
         ],
     ],
     [
-        "tokyo_night",
+        "tokyo_night_moon",
         [
             (31, 35, 53, 255),
             (36, 40, 59, 255),

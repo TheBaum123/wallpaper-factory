@@ -10,6 +10,7 @@ setup(
     entry_points={
         "console_scripts": ["wallpaper-factory = wallpaper_factory:wallpaper_factory"]
     },
+    package_data={"": ["*.json"]},
     long_description=long_description,
     long_description_content_type="text/markdown",
 )

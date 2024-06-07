@@ -3,6 +3,7 @@ import os
 from PIL import ImageColor
 
 
+# convert array of hex colors to rgba colors
 def convert_array(array_hex):
     rgba_colors = []
     for color in array_hex:

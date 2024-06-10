@@ -18,6 +18,8 @@ def main():
         print(f"Please choose a number within the range 0-{len(available_palletes)}")
         quit(1)
 
+    print(f"Chosen theme: {available_palletes[chosen_pallete][0]}")
+
     available_colors = available_palletes[chosen_pallete][1]
 
     # ask the user if an attempt at denoising the image should be made
